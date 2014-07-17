@@ -1,4 +1,4 @@
-Prin-Computer-Science-2.0
+Principia Computer Science Curriculum V2.0
 =========================
 
 Contributers will be alumni of the Computer Science program at Principia if they are interested in helping. Others may join and make pull requests, but these will be lower priority to alumni.
